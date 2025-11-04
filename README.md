@@ -1,2 +1,2 @@
-# pro1
+# projects
 lol
